@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
+
 - 🔭 I’m currently working with @MyPlayPlanet
 
 - 🌱 I’m currently studying **computer science at ETH Zürich**
