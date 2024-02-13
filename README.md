@@ -2,8 +2,9 @@
 
 🔭 I’m currently working with [@MyPlayPlanet](https://github.com/MyPlayPlanet)
   
-📫 Contact me by sending a **mail** to **paul@franos.ch**
 
+
+Some **statistics** about me and my current work:
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C194%20hrs%2038%20mins-blue)
@@ -54,6 +55,8 @@ Windows                  31 hrs 6 mins       ███████████�
 
 
 <!--END_SECTION:waka-->
+
+📫 Contact me by sending a **mail** to **paul@franos.ch**
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Entjic"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="168" alt="Entjic" /></a></p>
