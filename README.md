@@ -3,9 +3,9 @@
 - 🔭 I’m currently working with @MyPlayPlanet
 
 - 🌱 I’m currently studying **computer science at ETH Zürich**
-- 
+  
 - 👯 I’m looking to collaborate on **anything**, please just **hit me up!**
-- 
+  
 - 📫 Contact me by sending a **mail** to **paul@franos.ch**
 
 <h3 align="left">Connect with me:</h3>
