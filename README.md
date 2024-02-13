@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **anything**, please just **hit me up!**
 
-- 📫 Contact me using by sending a **mail** to **paul@franos.ch**
+- 📫 Contact me by sending a **mail** to **paul@franos.ch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
