@@ -7,7 +7,7 @@
 Some **statistics** about me and my current work:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C259%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C260%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -38,13 +38,13 @@ Sunday                   189 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    7 mins              █████████████████████████   100.00 % 
+Other                    34 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Firefox                  7 mins              █████████████████████████   100.00 % 
+Firefox                  34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 
