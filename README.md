@@ -38,13 +38,13 @@ Sunday                   190 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
