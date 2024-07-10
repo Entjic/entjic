@@ -1,8 +1,5 @@
 <h3 align="center">Hi 👋, I'm Paul and I study computer science at ETH Zurich</h3>
 
-🔭 I’m currently working with [@MyPlayPlanet](https://github.com/MyPlayPlanet)
-  
-
 
 Some **statistics** about me and my current work:
 
