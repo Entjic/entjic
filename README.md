@@ -35,14 +35,13 @@ Sunday                   1235 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     5 mins              █████████████████████████   99.93 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
