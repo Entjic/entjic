@@ -8,28 +8,22 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C746%20hrs%2058%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.92%20million%20lines%20of%20code-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Berlin
-
 💬 Programming Languages: 
-Python                   9 hrs 35 mins       █████████████████░░░░░░░░   69.51 % 
-CSV/TSV                  1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-CSV                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Diagrams.net Diagram     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Python                   7 hrs 57 mins       █████████████████░░░░░░░░   68.60 % 
+CSV/TSV                  1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+CSV                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Diagrams.net Diagram     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-PyCharm                  13 hrs 10 mins      ████████████████████████░   95.46 % 
-WebStorm                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+PyCharm                  10 hrs 58 mins      ████████████████████████░   94.63 % 
+WebStorm                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 💻 Operating System: 
-Mac                      13 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
