@@ -8,6 +8,23 @@
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   11 hrs 21 mins      ████████████████████████░   94.10 % 
+CSV                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+CSV/TSV                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+
+🔥 Editors: 
+PyCharm                  12 hrs 3 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      12 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
