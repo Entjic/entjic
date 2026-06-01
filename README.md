@@ -8,25 +8,6 @@
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     23 mins             ███████████████░░░░░░░░░░   60.14 % 
-Markdown                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-
-🔥 Editors: 
-IntelliJ IDEA            23 mins             ███████████████░░░░░░░░░░   60.16 % 
-PyCharm                  14 mins             █████████░░░░░░░░░░░░░░░░   36.92 % 
-WebStorm                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-
-💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
