@@ -12,16 +12,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 mins              ██████████████████░░░░░░░   71.30 % 
-CSV/TSV                  0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
