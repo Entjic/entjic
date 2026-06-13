@@ -12,13 +12,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 mins              ███████████████████░░░░░░   75.57 % 
+Markdown                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 
