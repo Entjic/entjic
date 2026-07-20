@@ -12,17 +12,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   44 mins             ██████████████████░░░░░░░   72.06 % 
-CSV                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-CSV/TSV                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
