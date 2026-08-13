@@ -14,28 +14,28 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 58 mins        █████████████░░░░░░░░░░░░   53.54 % 
-Text                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Java                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Python                   1 hr 58 mins        ███████████░░░░░░░░░░░░░░   45.49 % 
+Text                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Java                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 10 mins       ███████████████░░░░░░░░░░   58.84 % 
-Claude Code              1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   32.71 % 
-IntelliJ IDEA            18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+PyCharm                  2 hrs 10 mins       ████████████░░░░░░░░░░░░░   50.00 % 
+Claude Code              1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+IntelliJ IDEA            57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
 
 💻 Operating System: 
-Mac                      3 hrs 22 mins       ███████████████████████░░   91.55 % 
-Windows                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Mac                      3 hrs 22 mins       ███████████████████░░░░░░   77.79 % 
+Windows                  57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs (54.16%)
+⏱ AI Coding Time: 2 hrs (46.02%)
 
-✍️ 1,061 lines written by AI, 599 lines written by hand (63.92% AI-written)
+✍️ 1,061 lines written by AI, 600 lines written by hand (63.88% AI-written)
 
 🔤 557,010 Input Tokens, 128,204 Output Tokens
 
@@ -46,10 +46,10 @@ Windows                  18 mins             ██░░░░░░░░░�
 Sonnet                   1,339 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.92% of written lines came from AI
+⚖️ Balanced with AI — 63.88% of written lines came from AI
 📝 Concise Prompter — average 252 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 48.24% of changed lines were hand-edited
+🚀 High AI Trust — 48.26% of changed lines were hand-edited
 ```
 
 
