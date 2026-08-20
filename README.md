@@ -14,28 +14,26 @@
 
 ```text
 💬 Programming Languages: 
-Java                     15 mins             ████████░░░░░░░░░░░░░░░░░   32.26 % 
-Java Properties          8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Text                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Kotlin                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Text                     6 mins              ███████████████████░░░░░░   76.84 % 
+Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-IntelliJ IDEA            39 mins             ████████████████████░░░░░   81.43 % 
-PyCharm                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+PyCharm                  7 mins              ████████████████████░░░░░   78.87 % 
+Claude Code              1 min               █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
 
 💻 Operating System: 
-Windows                  39 mins             ████████████████████░░░░░   81.43 % 
-Mac                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (12.42%)
+⏱ AI Coding Time: 5 mins (66.88%)
 
-✍️ 46 lines written by AI, 1 lines written by hand (97.87% AI-written)
+✍️ 46 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 333,312 Input Tokens, 3,605 Output Tokens
 
@@ -46,10 +44,10 @@ Mac                      8 mins              █████░░░░░░�
 Sonnet                   394 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.87% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📄 Detailed Prompter — average 1,245 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 2.13% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
