@@ -8,46 +8,48 @@
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Text                     6 mins              ███████████████████░░░░░░   76.84 % 
-Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 23 mins             ███████████████░░░░░░░░░░   61.01 % 
+Text                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Kotlin                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-PyCharm                  7 mins              ████████████████████░░░░░   78.87 % 
-Claude Code              1 min               █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Claude Code              24 mins             ████████████████░░░░░░░░░   64.59 % 
+PyCharm                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+IntelliJ IDEA            6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Windows                  28 mins             ███████████████████░░░░░░   76.39 % 
+Mac                      8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (66.88%)
+⏱ AI Coding Time: 29 mins (77.42%)
 
-✍️ 46 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 201 lines written by AI, 200 lines written by hand (50.12% AI-written)
 
-🔤 333,312 Input Tokens, 3,605 Output Tokens
+🔤 465,468 Input Tokens, 29,408 Output Tokens
 
-💵 $2.54 Estimated AI Cost This Week
+💵 $3.43 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
-Sonnet                   394 lines           █████████████████████████   100.00 % 
+Sonnet                   549 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,245 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.12% of written lines came from AI
+📝 Concise Prompter — average 374 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 49.88% of changed lines were hand-edited
 ```
 
 
