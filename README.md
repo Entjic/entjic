@@ -14,24 +14,26 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 22 mins             ████████████████████░░░░░   79.32 % 
-Kotlin                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Markdown                 22 mins             ████████████████████░░░░░   79.28 % 
+Kotlin                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+GDScript3                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Claude Code              22 mins             ████████████████████░░░░░   78.02 % 
-IntelliJ IDEA            6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Claude Code              22 mins             ███████████████████░░░░░░   77.98 % 
+IntelliJ IDEA            6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Godot                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  28 mins             █████████████████████████   99.94 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (80.67%)
+⏱ AI Coding Time: 23 mins (80.63%)
 
 ✍️ 155 lines written by AI, 200 lines written by hand (43.66% AI-written)
 
